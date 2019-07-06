@@ -1,5 +1,6 @@
 import os
 import re
+
 from scose_utilities import *
 import spacy
 from spacy.tokenizer import Tokenizer
@@ -8,7 +9,7 @@ tokenizer = Tokenizer(nlp.vocab)
 
 # Data source and output paths
 archive_dir = "scose_archive/"
-data_dir = "scose_data/json/"
+data_dir = "scose_data/text/"
 
 # Excluded characters for ignoring i.e. '=='
 excluded_chars = {'<', '>', '-', '#', '&', '|', '=', '@', '', '[', ']'}
@@ -132,28 +133,14 @@ for file_name in dialogue_list:
         # Strip duplicate whitespace
         utt['text'] = re.sub(' +', ' ', utt['text'])
 
-    dialogue = dict()
     utterances = []
-    num_utterances = 0
 
     # Remove empty utterances
     for utt in tmp_utterances:
         if len(utt['text']) > 0 and not all(char in ['.', '?', '!', ' '] for char in utt['text']):
             utterances.append(utt)
 
-    # Create dialogue
-    dialogue['dialogue_id'] = file_name
-    dialogue['num_utterances'] = len(utterances)
-    dialogue['utterances'] = utterances
-
-    # Add to dialogues
-    num_dialogues += 1
-    dialogues.append(dialogue)
-
-# Add dataset metadata
-dialogue_data['dataset'] = "scose"
-dialogue_data['num_dialogues'] = num_dialogues
-dialogue_data['dialogues'] = dialogues
-
-# Save to JSON file
-save_json_data(data_dir, dialogue_data['dataset'], dialogue_data)
+    # Write dialogue to text file
+    with open(data_dir + file_name + '.txt', 'w+', encoding="utf8") as file:
+        for utt in utterances:
+            file.write(utt['speaker'] + "|" + utt['text'] + "\n")
