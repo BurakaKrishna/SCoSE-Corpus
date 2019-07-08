@@ -88,7 +88,7 @@ PAT|the squirrels the squirrel eats it all.
 AMY|oh at least somebody makes good use of it.
 MAR|can't you get a bird feeder that the squirrel can't get at?
 RAL|well not that you can hang that on a tree.
-RAL|xxx.
+RAL|<unk>.
 PAT|what?
 RAL|that's not where you where you have it hanging on the tree.
 RAL|where you can hang it from a tree.
@@ -97,7 +97,7 @@ PAT|but he just . jumps right off the garage.
 MAR|oh because of Ma greases the pole.
 MAR|doesn't she.
 MAR|so that the squirrel.
-RAL|xxx.
+RAL|<unk>.
 PAT|they have a squirrel guard.
 RAL|piece of metal that comes like this , and ducks under it but
 PAT|that's that.
@@ -106,7 +106,7 @@ PAT|it's a rare feeder.
 PAT|that'll keep a squirrel off.
 PAT|you know that squirrel.
 PAT|I think it's the one with the broken tail.
-PAT|your father saw a little dead animal down the street xxx.
+PAT|your father saw a little dead animal down the street <unk>.
 PAT|that squirrel with that broken tail.
 MAR|oh, the squirrel died?
 RAL|I guess he ended up with a broken neck on top of a broken tail.
@@ -114,12 +114,12 @@ AMY|very funny, Dad
 RAL|well I can't help it the poor thing died.
 PAT|well, I know.
 PAT|but they just don't have to make ⁎fun⁎ of it.
-AMY|I should check the xxx.
+AMY|I should check the <unk>.
 PAT|and it died.
 RAL|poor thing died.
 RAL|really hit it.
 PAT|they haven't been around for a long time.
-PAT|and I asked xxx.
+PAT|and I asked <unk>.
 PAT|she hasn't seen the squirrel.
 PAT|I guess, the one that Hal used to feed all the time.
 AMY|what was that?
@@ -163,7 +163,7 @@ MAR|but see he's so he's leery now.
 MAR|I mean he drove really slow.
 MAR|I've never seen Brad driving that slow.
 RAL|I don't know.
-PAT|xxx.
+PAT|<unk>.
 AMY|he's gonna be nervous
 MAR|Brad does not drive fast.
 MAR|he never has drove driven fast.
@@ -181,7 +181,7 @@ AMY|stupid guy.
 PAT|that conversation of uh.
 AMY|don't mention it to him it will upset him.
 AMY|don't mention it at all.
-PAT|xxx I'm sure it will.
+PAT|<unk> I'm sure it will.
 MAR|he uhm he said.
 MAR|it really, you know.
 MAR|we really didn't think it was that bad.
@@ -337,19 +337,19 @@ MAR|not much you can do about it once it starts.
 MAR|long
 MAR|you gonna eat breakfast
 AMY|do you want to watch . Days?
-AMY|I taped yesterday xxx.
+AMY|I taped yesterday <unk>.
 MAR|okay.
 AMY|Dad has the tape and he wants it back.
 MAR|he can have it back.
 RAL|which is it?
 AMY|Turn Back the Pack.
 AMY|Turn the Pack.
-RAL|xxx I guess nobody wants to see it, so.
+RAL|<unk> I guess nobody wants to see it, so.
 AMY|well Dad, we haven't had time.
 RAL|well, I don't know what to do.
 RAL|you know Tale of two Cities.
 RAL|is going to be on again I think this Sunday.
-RAL|they xxx.
+RAL|they <unk>.
 AMY|I'm sure we'd watch it before then.
 AMY|did you see that movie Turn Back the Black?
 AMY|did you want to?
@@ -366,7 +366,7 @@ AMY|Dear John.
 RAL|Dear John the goofy guy , he was
 AMY|oh really?
 MAR|what what's his name?
-RAL|xxx.
+RAL|<unk>.
 MAR|oh his name was Dirk.
 AMY|it's not Dirk it's something like.
 MAR|Kirk.
@@ -377,7 +377,7 @@ RAL|Dirk, Dork.
 MAR|Jerk, Turk.
 RAL|he was on it, Connie Sellaca . I forget who else.
 RAL|another girl was on it from some other show.
-RAL|xxx . Catherine Estherhaze.
+RAL|<unk> . Catherine Estherhaze.
 AMY|is it?
 RAL|it was good.
 RAL|I didn't care for the ending.
@@ -394,7 +394,7 @@ MAR|you locked the kitten in the closet?
 AMY|no . I shut the door . normally.
 PAT|talking in adjacent
 AMY|just, I left it cracked so that she could push the door open.
-AMY|she xxx anyway.
+AMY|she <unk> anyway.
 PAT|by the way, you kids.
 PAT|don't wear anything too good.
 PAT|to Ma's.
@@ -553,10 +553,10 @@ FRE|oh you got some in there already?
 MAR|Mom is getting upset.
 PAT|well, it's too damn dark for one thing.
 PAT|I can't do eight things at once.
-PAT|I never get xxx fall.
-MAR|xxx
+PAT|I never get <unk> fall.
+MAR|<unk>
 MAR|do you want Pepsi or milk, Fred?
-AMY|xxx.
+AMY|<unk>.
 PAT|Fred.
 PAT|I really didn't expect you tonight.
 PAT|I'd have made this better if I'd have known you were coming, but.
@@ -564,8 +564,8 @@ FRE|that's all right.
 AMY|you'd have made gourmet grilled cheese.
 PAT|I love I love it.
 MAR|gourmet grilled cheese
-PAT|xxx with the turner?
-MAR|xxx with the milk xxx.
+PAT|<unk> with the turner?
+MAR|<unk> with the milk <unk>.
 MAR|all speaking together, sounds of cooking and setting the
 PAT|Fred do you want a couple?
 FRE|couple of what?
@@ -582,7 +582,7 @@ RAL|sounds of putting ice in
 FRE|smooth move Ex_Lax.
 MAR|I forgot the ice forgot the ice I forgot the pop was in there already
 AMY|is this stale?
-MAR|Amy does it xxx.
+MAR|Amy does it <unk>.
 MAR|I wanna ice.
 RAL|it's stale.
 RAL|where was it?
@@ -591,7 +591,7 @@ RAL|that's that's what happens when it's frozen.
 RAL|you can't do that.
 PAT|what?
 RAL|the one you thawed out.
-AMY|xxx the ones from lunch.
+AMY|<unk> the ones from lunch.
 RAL|well that's right.
 RAL|see, they were frozen.
 RAL|and then your mother thaws them out.
@@ -603,7 +603,7 @@ RAL|you just have the serving tray.
 RAL|what are you eating?
 AMY|It's all right.
 RAL|peanut butter and jelly.
-AMY|I'll just used the same plate . xxx.
+AMY|I'll just used the same plate . <unk>.
 AMY|oh wait.
 AMY|I know I got an idea . we'll just thaw my bread out.
 RAL|here . take it this plate.
@@ -614,7 +614,7 @@ RAL|because I'm going to eat off one of these anyway.
 RAL|everybody grab one
 FRE|well.
 MAR|uhhuh.
-MAR|xxx.
+MAR|<unk>.
 RAL|how did I end up with four?
 FRE|pieces of bread.
 AMY|oh, Dad, one of them's.
@@ -622,7 +622,7 @@ MAR|hahaha
 MAR|that was pretty funny.
 MAR|hey yeh.
 MAR|I mean we've got bread here with the peanut butter and jelly.
-PAT|⁎ouch⁎ xxx.
+PAT|⁎ouch⁎ <unk>.
 MAR|what sandwich?
 PAT|A⁎m⁎y don't throw it away.
 PAT|put it on top of the this thing here , and uh
@@ -649,7 +649,7 @@ MAR|just cut it in the half?
 RAL|well, you're supposed to take the whole thing and put it in your sandwich.
 PAT|where are the forks?
 MAR|I didn't put forks on
-PAT|xxx kitchen xxx.
+PAT|<unk> kitchen <unk>.
 AMY|I had nothing to do with dinner
 MAR|I didn't think of cutting it before.
 PAT|it's kinda hard to . clean and make meals
@@ -672,7 +672,7 @@ RAL|what?
 AMY|I said I'd stop making him feel guilty if he'd give me the Chrismas list.
 PAT|don't be ridiculous.
 PAT|she won't give me one.
-FRE|xxx.
+FRE|<unk>.
 AMY|kick donkey
 RAL|what'd she say?
 AMY|continually.
@@ -710,7 +710,7 @@ RAL|what?
 RAL|do you like it with the ham?
 AMY|yeah
 RAL|well it's kinda like boiled ham.
-PAT|xxx put the ice on it.
+PAT|<unk> put the ice on it.
 PAT|at least eases the fire.
 AMY|mhm.
 PAT|I put my finger on the on the uh
@@ -816,7 +816,7 @@ MAR|Lethal Weapon Two.
 RAL|you loved that so much?
 AMY|yeah . looked like the guy got shot four, five times.
 AMY|and the guy's laying there on the ground laughing.
-RAL|xxx.
+RAL|<unk>.
 RAL|you saw it already?
 RAL|where did you see it?
 RAL|in the at home?
@@ -878,16 +878,16 @@ RAL|what'd you say?
 MAR|the butter is still on.
 RAL|I know it's on.
 MAR|oh.
-PAT|xxx over to the very edge.
+PAT|<unk> over to the very edge.
 RAL|I can be a gourmet cook too
 MAR|Friday night we're having grilled cheese
-FRE|xxx.
+FRE|<unk>.
 AMY|you did.
 AMY|did you hear they offered me a job for Christmas.
 MAR|oh yeah?
 RAL|yes.
 AMY|and now they are interested in having an internship next summer.
-RAL|oh open that up xxx.
+RAL|oh open that up <unk>.
 PAT|is that your mother's sister?
 FRE|dad's sister.
 RAL|who turned that down?
@@ -895,10 +895,10 @@ AMY|Mom.
 AMY|you should have seen Brad today.
 AMY|you know we knew this bio was missing on Tuesday , and he says Tuesday Tuesday evening.
 PAT|you told us about it.
-RAL|xxx.
-PAT|xxx.
+RAL|<unk>.
+PAT|<unk>.
 AMY|oh.
-RAL|yeah, you told me about when you xxx.
+RAL|yeah, you told me about when you <unk>.
 PAT|did you want me did you want me to let you finish?
 AMY|I heard.
 PAT|and then say you told me that twice ⁎Amy⁎.
@@ -930,7 +930,7 @@ RAL|the videotape?
 MAR|yeah.
 AMY|what was that show called?
 MAR|I still have it.
-AMY|should have put a xxx.
+AMY|should have put a <unk>.
 PAT|talking in background to.
 MAR|that was so funny.
 FRE|yeah
@@ -957,7 +957,7 @@ MAR|that's good stuff.
 PAT|anybody gonna finish up those raspberry cookies?
 RAL|mhm.
 MAR|semantics and all that stuff, great stuff.
-AMY|xxx.
+AMY|<unk>.
 AMY|but I will anyway.
 RAL|yeah.
 RAL|as long as you don't use it to put it under your armpits.
@@ -981,10 +981,10 @@ AMY|well, and I feel more sorry for Bradely than you.
 MAR|why, he should never be angry at me.
 AMY|because more than likely.
 AMY|you were having a conniption fit and making him nervous.
-MAR|xxx before the cats find it
+MAR|<unk> before the cats find it
 RAL|these are big.
 RAL|they are bigger than the other ones.
-PAT|you better find that xxx.
+PAT|you better find that <unk>.
 AMY|he doesn't care if the cat chews it up.
 PAT|no, but I do.
 AMY|oh okaydoky.
@@ -1006,13 +1006,13 @@ FRE|where?
 AMY|at Ma's house.
 RAL|did you really?
 AMY|I did.
-FRE|xxx pots.
+FRE|<unk> pots.
 FRE|I did them.
 AMY|you know what was really scary,.
 AMY|I didn't spend a minute down in the basement.
 RAL|yeah cause you were doing the coffee cups and everything afterwards.
 MAR|I'm cold chattering her
-PAT|xxx diningroom though,.
+PAT|<unk> diningroom though,.
 PAT|I don't know how much was on the dining table, but I saw tons of beer cans and
 AMY|why don't you collect those cans?
 RAL|Ma collects

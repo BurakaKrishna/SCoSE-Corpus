@@ -1,5 +1,5 @@
 # SCoSE-Copus
-Utilities for Processing the [Saarbrücken Corpus of Spoken English (SCoSE)](https://ca.talkbank.org/access/SCoSE.html) 
+Utilities for processing the [Saarbrücken Corpus of Spoken English (SCoSE)](https://ca.talkbank.org/access/SCoSE.html) 
 available from [TalkBank](https://talkbank.org/). 
 The corpus consists of 14 transcribed dialogues of general talk on a range of topics between two or more participants.
 The utilities process the original transcripts into plain text or json formats and remove disfluency and other 
@@ -12,8 +12,8 @@ This format is intended to facilitate annotation of the dialogue using the
 [Conversation Analysis Schema](https://nathanduran.github.io/CA-Schema/)
 and [Dialogue tagger](https://github.com/NathanDuran/CA-Dialogue-Tagger).
 
-scose_to_text.py processes the 14 dialogues from the original .cha format into plain text files using the format
-outlined below.
+scose_to_text.py processes the 14 dialogues from the original .cha format into plain text files,
+with one line per-utterance, using the format outlined below.
 
 scose_utilities.py script contains various helper functions for loading/saving and processing the data.
 
@@ -24,7 +24,8 @@ The metadata 'headers' have also been removed.
 Any sentences that are continued on another line by the same speaker (marked with '+') have been
 concatenated to form complete uninterrupted sentences.
 
-Certain words, such as swear words or names, were redacted in the original transcripts and replaced with 'xxx'.
+Certain words, such as swear words or names, were redacted in the original transcripts and replaced with *'xxx'*.
+These have been raplaced with an *\<unk\>* token.
 
 ### Example Text Format
 ERI|didn't they, didn't you ever hear that they, they found an entire woolly mammoth, frozen.

@@ -185,7 +185,7 @@ BRI|go.
 ADD|but I was thinking of not even coming home yet.
 BRI|oh.
 ADD|I guess.
-BRI|xxx.
+BRI|<unk>.
 BRI|I have to come home special that weekend.
 ADD|I know.
 ADD|yeah, do you really?
@@ -218,7 +218,7 @@ ADD|my last exam is like . I don't know.
 ADD|I think Wednesday.
 ADD|Tuesday or Wednesday.
 BRI|well.
-ADD|xxx the week before.
+ADD|<unk> the week before.
 BRI|all right.
 BRI|ok.
 ADD|I can stay up till Friday the first uhm
@@ -235,7 +235,7 @@ BRI|oh.
 ADD|whenever I want to.
 ADD|so I guess if I can get a ride home on Friday I'll stay until Friday.
 BRI|uhhuh.
-ADD|but if I can't xxx
+ADD|but if I can't <unk>
 BRI|did you get a new sweater?
 BRI|huh?
 ADD|all right.
@@ -280,7 +280,7 @@ ADD|I'm not going shopping.
 BRI|no.
 ADD|I mean
 BRI|I had no idea what to get her.
-BRI|she her xxx.
+BRI|she her <unk>.
 ADD|yeah.
 ADD|I'm not sure.
 BRI|tomorrow.
@@ -764,7 +764,7 @@ ADD|that's good.
 BRI|things have been so much better
 ADD|oh that's good.
 BRI|what with the tension.
-ADD|xxx.
+ADD|<unk>.
 BRI|it it it's really I mean . it's not just her you know that was making me so
 ADD|yeah.
 BRI|tense and stuff, it's just every
@@ -976,7 +976,7 @@ ADD|for envelope stuffing addressing and all those kind of things.
 BRI|yeah.
 ADD|all that office kind of stuff
 BRI|right.
-ADD|but when I went down there and they'd already take done that xxx but that was you know . end of May.
+ADD|but when I went down there and they'd already take done that <unk> but that was you know . end of May.
 BRI|uhhuh.
 ADD|they do it probably in March.
 ADD|I don't know.
@@ -1049,9 +1049,9 @@ ADD|I'd rather not even work next year but you know I'll have to.
 BRI|yeah.
 ADD|a few hours a week.
 BRI|mhm mhm.
-BRI|xxx spending money xxx.
+BRI|<unk> spending money <unk>.
 ADD|yeah.
-ADD|xxx.
+ADD|<unk>.
 BRI|food . laundry
 ADD|laundry.
 BRI|yeah.
@@ -1068,7 +1068,7 @@ BRI|uhhuh.
 ADD|well . let's see how much I can get.
 BRI|yeah my mum's like well if you would've gotten off your ass this summer and worked
 BRI|then you wouldn't be in the bind that you're in now .
-ADD|oh jeez, this was xxx Mum.
+ADD|oh jeez, this was <unk> Mum.
 BRI|if I had worked any more at that place I would
 ADD|I know.
 BRI|wouldn't have been here this year.
@@ -1340,7 +1340,7 @@ ADD|with people everywhere.
 BRI|hhh uh.
 BRI|I'm gonna go down tomorrow morning.
 ADD|yeah?
-BRI|take xxx.
+BRI|take <unk>.
 ADD|yeah.
 BRI|there is this ring that I wanted in one of the antique shops.
 ADD|uhhuh.
@@ -1426,7 +1426,7 @@ BRI|right.
 ADD|I mean I don't expect things back.
 ADD|and then they'll feel bad if they can't and oh jeez that's just a pain you know?
 BRI|yeah.
-BRI|it's xxx now.
+BRI|it's <unk> now.
 BRI|it's really kind of leave it alone.
 ADD|I know.
 ADD|yeah.
@@ -1437,7 +1437,7 @@ ADD|yeah.
 BRI|and I
 ADD|what did you get her then?
 BRI|oh God.
-BRI|I ended up getting her uhm a xxx.
+BRI|I ended up getting her uhm a <unk>.
 BRI|I got her uhm a candle holder.
 ADD|oh.
 BRI|and it's uhm . it's marble like a green marble.
@@ -1525,7 +1525,7 @@ BRI|mhm mhm.
 ADD|he he.
 BRI|he was supposed to come up I guess like for a week.
 ADD|yeah?
-BRI|and xxx uhm then he couldn't because of business.
+BRI|and <unk> uhm then he couldn't because of business.
 ADD|oh yeah.
 BRI|so he won't be up to the wedding.
 ADD|oh.
@@ -1568,7 +1568,7 @@ ADD|she was gone playing at her friend's house the whole day.
 BRI|oh right.
 ADD|mhm mhm.
 ADD|I haven't seen her all day.
-BRI|xxx.
+BRI|<unk>.
 ADD|she was gone when I got up.
 ADD|of course I didn't get up till ten o'clock.
 BRI|she's a busy woman.
@@ -1601,7 +1601,7 @@ BRI|uhhuh.
 BRI|I could but I wouldn't be anyway.
 ADD| no.
 BRI|it's the music.
-BRI|it's the concert we xxx.
+BRI|it's the concert we <unk>.
 ADD|oh.
 BRI|I had gone to a concert.
 ADD|mhm mhm.
@@ -1692,7 +1692,7 @@ ADD|and next semester I'll have two two, so it's you know it's four in but not f
 BRI|uhhuh.
 ADD|fourth semester.
 BRI|so . did you still have the book from the c_d pack?
-ADD|or did you xxx?
+ADD|or did you <unk>?
 ADD|I do.
 ADD|I still have como dice due.
 BRI|oh right, this guy you know like you could talk to him
@@ -1753,7 +1753,7 @@ ADD|I took philosophy one one.
 BRI|mhm mhm.
 ADD|it's introduction to philosophy.
 ADD|that's kind of interesting.
-BRI|xxx?
+BRI|<unk>?
 ADD|yeah, because uhm I have . all these different friends now that discuss philosophy a lot . constantly.
 ADD|because my friend Tom . like I don't know if you're friendly with uhm who lives next door to this . Mike guy who's a philosophy major.
 BRI|oh ha ha ha ha.
@@ -1791,13 +1791,13 @@ BRI|mhm mhm.
 ADD|but some practical writing.
 ADD|I think that would be cool.
 BRI|yeah.
-ADD|xxx.
-BRI|xxx.
+ADD|<unk>.
+BRI|<unk>.
 ADD|yeah.
-ADD|xxx.
-BRI|is there a xxx?
+ADD|<unk>.
+BRI|is there a <unk>?
 ADD|no no.
-BRI|uhm . xxx?
+BRI|uhm . <unk>?
 ADD|no I only took one of those.
 BRI|geography religion, he he uhm uh
 ADD|no religion.
@@ -1815,7 +1815,7 @@ BRI|oh man I kept it but I can't remember it.
 BRI|it'll come to me.
 BRI|women's studies?
 ADD|oh no . I don't think I will do that.
-BRI|well we've gone through all the xxx.
+BRI|well we've gone through all the <unk>.
 BRI|communications?
 ADD|no.
 ADD|uh uh.
@@ -1834,7 +1834,7 @@ ADD|that's five.
 BRI|because you didn't say Russian before.
 ADD|yeah I did Russian culture and literature.
 BRI|oh.
-BRI|xxx.
+BRI|<unk>.
 ADD|that one.
 ADD|you weren't counting that one?
 BRI|I I no.
@@ -1852,7 +1852,7 @@ ADD|I'm trying to think of what else I took, I think it ok but
 ADD|but
 BRI|because you said that's like first
 ADD|yeah.
-BRI|and then we were talking about xxx.
+BRI|and then we were talking about <unk>.
 ADD|then
 ADD|you lost it.
 BRI|I forgot about it.
@@ -1902,7 +1902,7 @@ ADD|I'm thinking about doing it that way though.
 ADD|so . you know we'll see.
 BRI|mhm mhm.
 ADD|hhh but I'm doing pretty well though.
-ADD|with classes this semester xxx.
+ADD|with classes this semester <unk>.
 BRI|you know.
 ADD|I'm like border line.
 ADD|I'm in . almost all my subjects between and oh that's cool
@@ -1985,7 +1985,7 @@ BRI|but but . you know I it's not what I want to do.
 ADD|uhhuh.
 BRI|and it's I
 ADD|yeah.
-BRI|really feel more like xxx in a way.
+BRI|really feel more like <unk> in a way.
 ADD|yeah.
 BRI|and
 ADD|Frank had like two years of design.
@@ -2069,22 +2069,22 @@ ADD|uhhuh.
 BRI|you know like arrgh ha ha ha.
 ADD|ah who cares?
 ADD|yeah.
-BRI|xxx.
+BRI|<unk>.
 ADD|yeah.
 ADD|that is.
 BRI|I think we'll have critique then, we have two we have to do two things
 ADD|mhm mhm.
 BRI|and then we're having critique at her house on Wednesday morning.
-BRI|we're having a xxx and then we're going to the studio and have a critique.
+BRI|we're having a <unk> and then we're going to the studio and have a critique.
 ADD|uhhuh.
 BRI|and that's our final.
 ADD|oh yeah.
 BRI|we don't have like an exam or anything.
 ADD|uhhuh.
-BRI|so xxx.
+BRI|so <unk>.
 ADD|uhhuh.
 ADD|oh jeez.
-ADD|I better go and get those tapes out xxx.
+ADD|I better go and get those tapes out <unk>.
 BRI|do you have to hand in these tapes?
 ADD|yeah.
 BRI|oh my God.
@@ -2236,7 +2236,7 @@ BRI|elope with him.
 ADD|oh yeah.
 BRI|that was . nasty messy.
 ADD|oh yeah.
-BRI|it was xxx.
+BRI|it was <unk>.
 ADD|it's hard.
 BRI|I mean he . you know was totally
 ADD|yeah.
@@ -2246,7 +2246,7 @@ BRI|and she was just not
 ADD|I know.
 ADD|oh.
 BRI|and she's happy you know she's happy now.
-ADD|oh that's good xxx.
+ADD|oh that's good <unk>.
 BRI|not that they're serious now or anything.
 BRI|but I mean . she doesn't really want it that way.
 BRI|you know?
@@ -2549,7 +2549,7 @@ ADD|but guys are great.
 ADD|you know?
 BRI|yeah.
 ADD|I don't have anything against men, huh I mean I know some women who you know they get a little bit hurt
-BRI|they'll xxx about it.
+BRI|they'll <unk> about it.
 ADD|they get a little bit hurt.
 ADD|and then all men are so awful, oh God.
 ADD|oh God.
@@ -2560,7 +2560,7 @@ ADD|and then they fall again.
 ADD|and then hurt again.
 BRI|yeah.
 ADD|and then guys are so terrible.
-BRI|xxx.
+BRI|<unk>.
 ADD|and they especially if they expect certain kinds of guys
 BRI|mhm mhm.
 ADD|and certain characteristics you know, and like
@@ -2587,7 +2587,7 @@ BRI|just to keeping up with
 ADD|mhm mhm.
 BRI|you know like what with going out with him
 ADD|mhm mhm.
-BRI|and xxx.
+BRI|and <unk>.
 BRI|you know running into him now and then.
 ADD|mhm mhm.
 BRI|he he he.
@@ -2663,7 +2663,7 @@ BRI|some other stuff like what?
 ADD|he does a lot of stuff.
 ADD|he's a history major.
 BRI|uh.
-ADD|xxx we've become closer friends.
+ADD|<unk> we've become closer friends.
 BRI|mhm mhm.
 ADD|you know.
 ADD|so we did that for lunch.
@@ -2717,7 +2717,7 @@ ADD|four quarters.
 BRI|mhm mhm.
 ADD|and uhm so we'll see if
 ADD|that works out.
-ADD|he still kind of works on his xxx.
+ADD|he still kind of works on his <unk>.
 BRI|mhm mhm.
 ADD|and you know well we'll see.
 ADD|I don't know.
@@ -2729,10 +2729,10 @@ ADD|so's Mark.
 ADD|Mark's gotten really tall.
 BRI|really?
 ADD|yeah.
-BRI|xxx like that.
+BRI|<unk> like that.
 BRI|I don't know.
-ADD|xxx.
-BRI|mhm mhm xxx.
+ADD|<unk>.
+BRI|mhm mhm <unk>.
 ADD|what a bunch.
 BRI|mhm mhm.
 ADD|oh they're weird.
@@ -2768,14 +2768,14 @@ ADD|I need to.
 BRI|yeah.
 ADD|I don't want to but I need to.
 ADD|I'd love to talk to him.
-ADD|because I think we've got I've gotten far enough so I xxx a conversation.
+ADD|because I think we've got I've gotten far enough so I <unk> a conversation.
 ADD|you know?
 BRI|mhm mhm.
 BRI|you can't really.
 ADD|you know?
 ADD|see how he's doing.
 BRI|mhm mhm.
-ADD|xxx.
+ADD|<unk>.
 BRI|oh yeah.
 ADD|she's going out with Frank now.
 BRI|really?
@@ -2841,7 +2841,7 @@ ADD|oh God.
 BRI|I'm like Sheila you're my teen idol.
 ADD|oh funny.
 ADD|my hair's really getting shaggy.
-BRI|you could even xxx.
+BRI|you could even <unk>.
 ADD|very long.
 BRI|oh yeah.
 ADD|oh yeah.
@@ -2915,7 +2915,7 @@ ADD|she goes she's living in Freeport right now going to Highland.
 BRI|really?
 ADD|but she's coming back home because she can't afford to live there, now
 BRI|mhm mhm.
-ADD|she gonna go taking the Highland take Highland classes xxx so
+ADD|she gonna go taking the Highland take Highland classes <unk> so
 BRI|no, I mean this is like no offence to David or anything like that but I mean or her.
 BRI|whatever you know, but I mean it just doesn't seem like
 ADD|they don't seem like . quite the pair.
@@ -2988,7 +2988,7 @@ ADD|oh I've heard so many people say they get to college and they take physics a
 BRI|oh no.
 BRI|I can imagine it I mean it would been a miracle if it did.
 ADD|I didn't even take it, I just decided that . that there were
-BRI|xxx.
+BRI|<unk>.
 ADD|there were gonna be things that I would never study.
 BRI|mhm mhm.
 ADD|and physics was gonna be one of them.
@@ -3098,7 +3098,7 @@ ADD|but I got in both of them.
 ADD|so, I survived.
 BRI|mhm mhm.
 ADD|I always survived.
-BRI|because xxx.
+BRI|because <unk>.
 ADD|I have trained myself to do enough work to get a
 BRI|oh yeah.
 ADD|at least a

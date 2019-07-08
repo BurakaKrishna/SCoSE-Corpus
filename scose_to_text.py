@@ -53,8 +53,13 @@ for file_name in dialogue_list:
             # If no excluded characters are present just add it
             if all(char not in excluded_chars for char in word) and not any(char.isdigit() for char in word):
 
+                # Strip any characters in the list
                 if any(char in strip_chars for char in word):
                     word = re.sub('[:⌊⌋⌈⌉“”"◉()]', '', word)
+
+                # If it is a redacted word i.e. 'xxx', replace with <unk>
+                if 'xxx' in word:
+                    word = word.replace('xxx', '<unk>')
 
                 utterance_text.append(word)
 
