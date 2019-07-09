@@ -1,4 +1,4 @@
-# SCoSE-Copus
+# SCoSE-Corpus
 Utilities for processing the [Saarbrücken Corpus of Spoken English (SCoSE)](https://ca.talkbank.org/access/SCoSE.html) 
 available from [TalkBank](https://talkbank.org/). 
 The corpus consists of 14 transcribed dialogues of general talk on a range of topics between two or more participants.
@@ -74,3 +74,10 @@ The following is an example of the JSON format for the SCoSE corpus.
         ]
     }
 ```
+## Licensing and Attribution
+The code within this repository is distributed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+The corpora available from [TalkBank](https://talkbank.org/), and the adapted format within this repository,
+is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
