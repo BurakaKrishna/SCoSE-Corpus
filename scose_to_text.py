@@ -14,10 +14,6 @@ strip_chars = [':', '⌊', '⌋', '⌈', '⌉', '“', '”', '"', '(', ')', '�
 # Get a list of all the dialogues
 dialogue_list = os.listdir(archive_dir)
 
-dialogue_data = dict()
-dialogues = []
-num_dialogues = 0
-
 for file_name in dialogue_list:
 
     # Load the file data
