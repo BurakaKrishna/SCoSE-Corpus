@@ -20,7 +20,7 @@ scose_utilities.py script contains various helper functions for loading/saving a
 
 ## Data Format
 The original transcripts have had all disfluency and annotation characters removed. For example '|', '◉', '=', '@'.
-The metadata 'headers' have also been removed.
+The metadata headers and utterance timestamps (marked with '&#9633;') have also been removed.
 
 Any sentences that are continued on another line by the same speaker (marked with '+') have been
 concatenated to form complete uninterrupted sentences.
