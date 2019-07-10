@@ -2,7 +2,7 @@ from scose_utilities import *
 
 # Data source and output paths
 archive_dir = "scose_archive/"
-data_dir = "scose_data/json/"
+data_dir = "scose_data/json"
 
 # Excluded characters for ignoring i.e. '=='
 excluded_chars = {'<', '>', '-', '#', '&', '|', '=', '@', '', '[', ']'}
