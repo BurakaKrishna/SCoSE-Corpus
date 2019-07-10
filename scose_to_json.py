@@ -13,7 +13,6 @@ dialogue_list = os.listdir(archive_dir)
 
 dialogue_data = dict()
 dialogues = []
-num_dialogues = 0
 
 for file_name in dialogue_list:
 
@@ -24,12 +23,11 @@ for file_name in dialogue_list:
     dialogue = process_dialogue(file_data, file_name, excluded_chars, strip_chars)
 
     # Append to set
-    num_dialogues += 1
     dialogues.append(dialogue)
 
 # Add dataset metadata
 dialogue_data['dataset'] = "scose"
-dialogue_data['num_dialogues'] = num_dialogues
+dialogue_data['num_dialogues'] = len(dialogue)
 dialogue_data['dialogues'] = dialogues
 
 # Save to JSON file
