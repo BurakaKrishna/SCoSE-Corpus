@@ -9,8 +9,7 @@ annotation characters. The intent is to create a more machine-readable format fo
 scose_to_json.py script processes the 14 dialogues from the original .cha format into .json files using the format
 outlined below.
 This format is intended to facilitate annotation of the dialogue using the 
-[Conversation Analysis Schema](https://nathanduran.github.io/CA-Schema/)
-and [Dialogue tagger](https://github.com/NathanDuran/CA-Dialogue-Tagger).
+[Conversation Analysis Modelling Schema](https://nathanduran.github.io/Conversation-Analysis-Modelling-Schema/).
 
 scose_to_text.py processes the 14 dialogues from the original .cha format into plain text files,
 with one line per-utterance, using the format outlined below.
